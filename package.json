@@ -1,0 +1,21 @@
+{
+  "name": "my-resume",
+  "version": "1.0.0",
+  "description": "This is a road map to the lime light of the tech landscape",
+  "main": "index.js",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MindPrepp/My-Resume.git"
+  },
+  "author": "Olaoye Oluwatoyin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MindPrepp/My-Resume/issues"
+  },
+  "homepage": "https://github.com/MindPrepp/My-Resume#readme"
+}
